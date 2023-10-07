@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shounakdighe@gmail.com**
 
-<h3 align="left"><a href="https://shounakdighe.000.pe/">Connect with me:</a></h3>
+<h3 align="left"><a href="http://shounakdighe.000.pe/">Connect with me:</a></h3>
 <p align="left">
 </p>
 
