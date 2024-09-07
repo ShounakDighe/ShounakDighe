@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [http://shounakdighe.000.pe/](http://shounakdighe.000.pe/)
-
 - 💬 Ask me about **Java,c,html,css,mobile application development.**
 
 - 📫 How to reach me **shounakdighe@gmail.com**
