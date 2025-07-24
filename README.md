@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shounak Dighe</h1>
-<h3 align="center">A highly motivated and dedicated computer science student with a strong foundation in programming and software development.</h3>
+<h3 align="center">Btech CSE @MitWpu | Java Dev | Cryptography | Prev @Hrucha SoftTech Intern | Founding Member @InsighAI Club</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently into **Cryptography**
 
-- 💬 Ask me about **Java,c,html,css,mobile application development.**
+- 💬 Ask me about **Java,html,css,mobile application development.**
 
 - 📫 How to reach me **shounakdighe@gmail.com**
 
-<h3 align="left"><a href="http://shounakdighe.000.pe/">Connect with me:</a></h3>
+<h3 align="left"><a href="">Connect with me:</a></h3>
 <p align="left">
 </p>
 
